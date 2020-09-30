@@ -26,6 +26,7 @@
 p {
   font-size: 12px;
   line-height: 30px;
+  font-color: grey;
 }
 
 .action_button {
@@ -85,4 +86,5 @@ p {
 
 .post_paginated_comment a {
   margin-right: 5px;
+  font-weight: 200;
 }
